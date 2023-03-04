@@ -1,7 +1,7 @@
 ---
 title: "Call to Airline and Airport Workers"
 date: 2023-03-04T16:31:45Z
-draft: true
+draft: no
 ---
 
 This is a call to airline and airport workers. We ask you to claim control of your work and not lend it for deportations. You have the power to stop your employer's deportation profiteering.
